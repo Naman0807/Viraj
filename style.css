@@ -20,6 +20,7 @@ nav > a {
 }
 
 nav > a:hover {
+<<<<<<< HEAD
 	border-bottom: 3px solid #ffa500;
 }
 
@@ -44,4 +45,7 @@ nav > a:hover {
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
 	background: linear-gradient(135deg, #0072ff 40%, #00c6ff 60%);
+=======
+	border-bottom: 1.5px solid #ffa500;
+>>>>>>> 43e36d2cc04da881639de822699774704f385dd2
 }
